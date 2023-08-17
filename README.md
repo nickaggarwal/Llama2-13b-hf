@@ -1,5 +1,5 @@
-# Llama-2-7b
-This is the Llama-2 7 Billion parameter's model template which you can use to import the model in Inferless.
+# Llama-2-13b
+This is the Llama-2 13 Billion parameter's model template which you can use to import the model in Inferless.
 
 ---
 ## Prerequisites
